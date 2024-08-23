@@ -8,7 +8,14 @@
 
 # Key Features:
 
-# Account Creation: Supports the creation of savings and current accounts, with initial deposit setup.
-# Deposit/Withdrawal: Facilitates secure transactions with specific rules for each account type (e.g., withdrawal limits for savings accounts).
-# Balance Inquiry: Allows users to check their current balance and view account details.
-# Account Closure: Provides functionality to close an account, removing it from the system.
+# 1. Account Creation:
+Supports the creation of savings and current accounts, with initial deposit setup.
+
+# 2. Deposit/Withdrawal: 
+Facilitates secure transactions with specific rules for each account type (e.g., withdrawal limits for savings accounts).
+
+# 3. Balance Inquiry: 
+Allows users to check their current balance and view account details.
+
+# 4. Account Closure:
+Provides functionality to close an account, removing it from the system.
