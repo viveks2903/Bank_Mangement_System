@@ -5,3 +5,10 @@
 -The project is designed to demonstrate the application of Object-Oriented Programming principles, including inheritance, polymorphism, encapsulation, and abstraction.
 
 -It provides an interactive menu-driven interface for managing various banking operations.
+
+# Key Features:
+
+# Account Creation: Supports the creation of savings and current accounts, with initial deposit setup.
+# Deposit/Withdrawal: Facilitates secure transactions with specific rules for each account type (e.g., withdrawal limits for savings accounts).
+# Balance Inquiry: Allows users to check their current balance and view account details.
+# Account Closure: Provides functionality to close an account, removing it from the system.
