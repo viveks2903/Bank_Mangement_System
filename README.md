@@ -47,6 +47,6 @@ The **Bank Management System** is a C++ console application that simulates the c
 ### How to Run:
 1. Clone the repository:  
    
-   git clone <repository_url>
-   g++ -o bank_management_system main.cpp
-   ./bank_management_system
+- git clone <repository_url>
+- g++ -o bank_management_system main.cpp
+- ./bank_management_system
